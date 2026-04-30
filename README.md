@@ -1,5 +1,9 @@
 # 💫 About Me:
-Mobile App Development (React Native)<br>Mobile Developer | Web Developer | Software Engineering Graduate<br><br>I am a passionate and motivated Software Engineering graduate with hands-on experience in building modern mobile and web applications using React Native, Next.js, and MongoDB.<br><br>During my degree, I worked on several academic and personal projects where I learned to design clean UI, write efficient code, and follow agile development practices. I enjoy turning complex problems into simple, intuitive solutions.<br><br> Core Skills:<br><br><br>Frontend Development (Next.js, React.js, React Native, HTML, CSS, JavaScript)<br>Backend (Node.js, Express, MongoDB)<br>State Management (Redux, Context API)<br>UI/UX and Responsive Design<br> I’m currently focused on growing as a full-stack developer and seeking opportunities to contribute to impactful projects in the software industry.
+🚀 Full-Stack Developer | MERN & PERN Stack | AI-Powered Development<br><br>A Software Engineering graduate focused on building modern, scalable web applications. Comfortable working across the full stack  from frontend to backend to database.
+<br><br>Specialized in the MERN (MongoDB, Express, React, Node.js) and PERN (PostgreSQL, Express, React, Node.js) stacks, with experience in Next.js, Prisma ORM, Supabase, Socket.io, TypeScript, and MCP (Model Context Protocol).<br><br>
+Work spans real-time systems, REST APIs, state management, and modern database solutions with both PostgreSQL and MongoDB.<br><br> 💼 What I Bring to the Table:<br><br><br>→ Frontend: Next.js, React.js, React Native, TypeScript, Tailwind CSS, HTML, CSS, JavaScript<br>→ Backend: Node.js, Express.js, REST APIs, Socket.io<br>→ Databases: MongoDB, PostgreSQL, Supabase<br>→ ORM & Tools: Prisma ORM, MCP (Model Context Protocol)<br>→ State Management: Redux Toolkit, Context API, React Hooks<br>→ Practices: Component-based architecture, clean code, agile development<br><br>🎯 Open to full-stack development opportunities  let’s connect!<br>
+📩 Open to work
+
 
 
 ## 🌐 Socials:
